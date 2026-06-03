@@ -21,7 +21,7 @@ Amazon Relational Database Service
 
 ### 2. Cloud First Steps
 * The island stabilization team wants to increase the reliability and availability of its current stabilization system.
-* 
+  
 ### 3. Computing Solutions
 *  The school wants to upgrade its class scheduling system, currently running on an Amazon EC2 instance, to provide greater computing power and memory capacity.
 
